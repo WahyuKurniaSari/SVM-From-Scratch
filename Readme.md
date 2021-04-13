@@ -1,8 +1,4 @@
-# Implemeting SVM from scratch using Python
-
-1. Refrence
-	* [Youtube Link (watch 20-33)](https://youtu.be/mA5nwGoRAOo)
-
+# Implemeting SVM 
 2. About SVM (General required for algo)
 	* For all xi in training Data:
 		 * ```	
